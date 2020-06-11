@@ -10,18 +10,17 @@
 
 ## Specifications
 
-**Behavior:** Program
-  * **Input Example:** 
-  * **Output Example:** 
-
-**Behavior:** Program
-  * **Input Example:** 
-  * **Output Example:** 
+| **Behavior** | **Input** | **Output** | 
+|  :---:  | :----: | :----: |
+| 
 
 ## Setup and Installation
 
-* Clone repo to your PC
-* Browse to _ _ directory
+* Navigate to [Link]()
+* Click the green clone button to download the repo your Computer
+* Find the .zip file on your Computer
+* Unzip the file
+* Browse to __ directory
 * Open _index.html_ in your browser
 
 ## Bugs
