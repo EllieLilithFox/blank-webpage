@@ -10,11 +10,11 @@
 
 ## Specifications
 
-* The program 
+**Behavior:** Program
   * **Input Example:** 
   * **Output Example:** 
 
-* The program 
+**Behavior:** Program
   * **Input Example:** 
   * **Output Example:** 
 
