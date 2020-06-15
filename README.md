@@ -10,9 +10,14 @@
 
 ## Specifications
 
-| **Behavior** | **Input** | **Output** | 
-|  :---:  | :----: | :----: |
-| 
+1. **Behavior:** Program
+    * **Input Example:**
+    * **Output Example:**
+
+2. **Behavior:** Program
+    * **Input Example:**
+    * **Output Example:**
+
 
 ## Setup and Installation
 
