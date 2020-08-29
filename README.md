@@ -28,15 +28,12 @@
 * Browse to __ directory
 * Open _index.html_ in your browser
 
-## Bugs
-
-No bugs
-
 ## Tech used
 
 * Html
-* CSS
+* CSS / Bootstrap
 * JavaScript
+* React
 
 ### License
 
